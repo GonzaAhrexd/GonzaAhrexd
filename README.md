@@ -53,6 +53,7 @@
 2. 🌟Mokepon Platzi (https://github.com/GonzaAhrexd/Mokepon-Platzi)
 3. 🌟How Many Days since January 1st (https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
 4. 🌟Password Generator using Django (https://github.com/GonzaAhrexd/Django-Password-Generator)
+5. 🌟Front-end Mentor QR Code Component (https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
 
 
 
