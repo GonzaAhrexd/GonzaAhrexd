@@ -54,7 +54,8 @@
 3. 🌟How Many Days since January 1st (https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
 4. 🌟Password Generator using Django (https://github.com/GonzaAhrexd/Django-Password-Generator)
 5. 🌟Front-end Mentor QR Code Component (https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
-
+6. 🌟Frontend-Mentor NFT preview card component(https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
+7. 🌟Frontend-Mentor Calculator App(https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
 
 
 ### :zap: GitHub Stats
