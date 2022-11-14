@@ -6,7 +6,7 @@
 
 ## I'm a Student and a work-in-progress Developer
 
-- 🌱 I’m currently learning node.js and mongodb
+- 🌱 I’m currently learning react.js
 - 🥅 My biggest goal: Become a polyglot speaking Spanish, English, Portuguese, French, Italian, Japanese and German
 - 🌎 I'm from Argentina
 - 🥴 I'm 19 years old
