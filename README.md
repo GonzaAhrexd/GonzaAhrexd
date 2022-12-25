@@ -55,6 +55,7 @@
 5. 🌟Front-end Mentor QR Code Component (https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
 6. 🌟Frontend-Mentor NFT preview card component(https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
 7. 🌟Frontend-Mentor Calculator App(https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
+8. 🌟CRUD React Practice(https://github.com/GonzaAhrexd/CRUD-React)
 
 
 ### :zap: GitHub Stats
