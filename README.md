@@ -6,7 +6,7 @@
 
 ## I'm a Student and a work-in-progress Developer
 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning React.js
 - 🥅 My biggest goal: Become a polyglot speaking Spanish, English, Portuguese, French, Italian, Japanese and German
 - 🌎 I'm from Argentina
 - 🥴 I'm 19 years old
@@ -56,7 +56,7 @@
 6. 🌟Frontend-Mentor NFT preview card component(https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
 7. 🌟Frontend-Mentor Calculator App(https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
 8. 🌟CRUD React Practice(https://github.com/GonzaAhrexd/CRUD-React)
-
+9. 🌟Frontend-Mentor Time Tracking Dashboard made with React (https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
 
 ### :zap: GitHub Stats
 
