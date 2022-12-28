@@ -46,7 +46,7 @@
 7. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
 8. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
 9. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
-10.🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
+10. 🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
 
 ### :zap: GitHub Stats
 [![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Gonza's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
