@@ -30,37 +30,26 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,mongodb,git,github,python)](https://skillicons.dev)
 <br /> 
 
 
 ---
 
 ## Repositories
-1. 🌟Argenkit Bot (https://github.com/GonzaAhrexd/ArgenKit-Bot)
-2. 🌟Mokepon Platzi (https://github.com/GonzaAhrexd/Mokepon-Platzi)
-3. 🌟How Many Days since January 1st (https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
-4. 🌟Password Generator using Django (https://github.com/GonzaAhrexd/Django-Password-Generator)
-5. 🌟Front-end Mentor QR Code Component (https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
-6. 🌟Frontend-Mentor NFT preview card component(https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
-7. 🌟Frontend-Mentor Calculator App(https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
-8. 🌟CRUD React Practice(https://github.com/GonzaAhrexd/CRUD-React)
-9. 🌟Frontend-Mentor Time Tracking Dashboard made with React (https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
+1. 🌟[Argenkit Bot](https://github.com/GonzaAhrexd/ArgenKit-Bot)
+2. 🌟[Mokepon Platzi](https://github.com/GonzaAhrexd/Mokepon-Platzi)
+3. 🌟[How Many Days since January 1st](https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
+4. 🌟[Password Generator using Django](https://github.com/GonzaAhrexd/Django-Password-Generator)
+5. 🌟[Front-end Mentor QR Code Component](https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
+6. 🌟[Frontend-Mentor NFT preview card component](https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
+7. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
+8. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
+9. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
+10.🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
 
 ### :zap: GitHub Stats
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Gonza's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaAhrexd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
