@@ -30,7 +30,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,react,nodejs,mongodb,git,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nodejs,mongodb,git,github,python)](https://skillicons.dev)
 <br /> 
 
 
