@@ -20,11 +20,10 @@
 
 ### Connect with me:
 
-<a title="Instagram" href="ttps://www.instagram.com/gonzaloebel/"> <img align="left" alt="Instagram" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png style="padding-right:10px;">
-<a title="Twitter" href="https://twitter.com/GonzaloEbel"> <img align="left" alt="Twitter" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png style="padding-right:10px;">
-<a title="Linkedin" href="https://www.linkedin.com/in/gonzalo-ebel-788452251"> <img align="left" alt="Linkedin" width="26px" src=https://cdn-icons-png.flaticon.com/512/174/174857.png style="padding-right:10px;">
-<a title="YouTube" href="https://www.youtube.com/channel/UCQlCROiNZfXB37pj_mO604A"> <img align="left" alt="Linkedin" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png style="padding-right:10px;"> </a>
-<a title="Twitch" href="https://www.twitch.tv/gonzaahre"> <img align="left" alt="Twitch" width="26px" src=https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png style="padding-right:10px;"> </a>
+<a href="https://www.linkedin.com/in/gonzalo-ebel-788452251"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=50px/></a>
+<a href="https://twitter.com/GonzaloEbel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height=50px/></a>
+<a href="https://www.youtube.com/channel/UCQlCROiNZfXB37pj_mO604A"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height=50px/></a>
+<a href="https://www.twitch.tv/gonzaahre"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" height=50px/></a>
 
 <br />   
 
