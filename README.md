@@ -50,6 +50,7 @@
 
 ### :zap: GitHub Stats
 [![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Gonza's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GonzaAhre&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaAhrexd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
