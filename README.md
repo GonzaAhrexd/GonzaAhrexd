@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React.js
 - 🥅 My biggest goal: Become a polyglot speaking Spanish, English, Portuguese, French, Italian, Japanese and German
 - 🌎 I'm from Argentina
-- 🥴 I'm 20 years old
+- 🥴 I'm 21 years old
 
 ### I speak...
 
