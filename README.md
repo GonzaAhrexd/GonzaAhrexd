@@ -35,18 +35,39 @@
 
 ---
 
-## Repositories
-1. 🌟[Argenkit Bot](https://github.com/GonzaAhrexd/ArgenKit-Bot)
-2. 🌟[Complete Web Page S.O.S SRL using Node.js & MongoDB](https://github.com/GonzaAhrexd/BolsasDeResiduoPaginaWeb)
-3. 🌟[Mokepon Platzi](https://github.com/GonzaAhrexd/Mokepon-Platzi)
-4. 🌟[How Many Days since January 1st](https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
-5. 🌟[Password Generator using Django](https://github.com/GonzaAhrexd/Django-Password-Generator)
-6. 🌟[Front-end Mentor QR Code Component](https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
-7. 🌟[Frontend-Mentor NFT preview card component](https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
-8. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
-9. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
-10. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
-11. 🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
+## Starred Repositories
+### Discord Bot
+1. 🌟[ArgenKit Bot](https://github.com/GonzaAhrexd/ArgenKit-Bot)
+
+### Web Pages 
+1. 🌟[S.O.S SRL using Node.js & MongoDB](https://github.com/GonzaAhrexd/BolsasDeResiduoPaginaWeb)
+2. 🌟[INET Hospital Web Page using Node.js & MongoDB](https://github.com/GonzaAhrexd/Gestion-Hospital-Inet)
+3. 🌟[Policial Web Page (Gender Violence) using React.js, Node.js & MongoDB](https://github.com/GonzaAhrexd/Web-Policia-Violencia)
+4. 🌟[Policial Web Page (Economic Section) using Angular](https://github.com/GonzaAhrexd/Fondo-Unico-Policia-UI)
+5. 🌟[SPA Web Page and Progressive Web Application using Next.js](https://github.com/SantiZapata1/spa-ui)
+6. 🌟[Football Association Web Page using Next.js and Prisma](https://github.com/GonzaAhrexd/Asociacion-Futbol-Proyecto-UTN)
+7. 🌟[School Management Project using LaravelPHP, React.js and MySQL](https://github.com/GonzaAhrexd/LAB4-Integrador)
+8. 🌟[Mokepon - Platzi Course using HTML, CSS and JavaScript vanilla](https://github.com/GonzaAhrexd/Mokepon-Platzi)
+9. 🌟[Shop - React Platzi Course](https://github.com/GonzaAhrexd/Tienda-CursoPlatzi)
+10. 🌟[Password Generator using Django](https://github.com/GonzaAhrexd/Django-Password-Generator)
+11. 🌟[Front-end Mentor QR Code Component](https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
+12. 🌟[Frontend-Mentor NFT preview card component](https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
+13. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
+14. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
+15. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
+16. 🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
+
+### API Services
+1. 🌟[SPA API using Node.js and MongoDB](https://github.com/SantiZapata1/spa-ui)
+2. 🌟[Policial Web Page (Economic Section) using C# .NET](https://github.com/GonzaAhrexd/Fondo-Unico-API)
+3. 🌟[GameList API using C# .NET and MongoDB](https://github.com/GonzaAhrexd/GameList-API)
+
+### C# .NET
+1. 🌟[Simon Game](https://github.com/GonzaAhrexd/SimonGame-CSharp)
+2. 🌟[Code Wars](https://github.com/GonzaAhrexd/CodeWars-CSharp)
+
+### Python
+1. 🌟[How Many Days since January 1st](https://github.com/GonzaAhrexd/HowManyDaysSinceJanuary1st)
 
 ### :zap: GitHub Stats
 [![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Gonza's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
