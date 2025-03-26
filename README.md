@@ -39,28 +39,33 @@
 ### Discord Bot
 1. 🌟[ArgenKit Bot](https://github.com/GonzaAhrexd/ArgenKit-Bot)
 
+### Wear OS Apps (Android for SmartWatches)
+1. 🌟[Mega Ring from Pokémon Wear OS App](https://github.com/GonzaAhrexd/Mega-Ring-Pokemon-WearOS)
+
 ### Web Pages 
 1. 🌟[S.O.S SRL using Node.js & MongoDB](https://github.com/GonzaAhrexd/BolsasDeResiduoPaginaWeb)
 2. 🌟[INET Hospital Web Page using Node.js & MongoDB](https://github.com/GonzaAhrexd/Gestion-Hospital-Inet)
 3. 🌟[Policial Web Page (Gender Violence) using React.js, Node.js & MongoDB](https://github.com/GonzaAhrexd/Web-Policia-Violencia)
-4. 🌟[Policial Web Page (Economic Section) using Angular](https://github.com/GonzaAhrexd/Fondo-Unico-Policia-UI)
-5. 🌟[SPA Web Page and Progressive Web Application using Next.js](https://github.com/SantiZapata1/spa-ui)
-6. 🌟[Football Association Web Page using Next.js and Prisma](https://github.com/GonzaAhrexd/Asociacion-Futbol-Proyecto-UTN)
-7. 🌟[School Management Project using LaravelPHP, React.js and MySQL](https://github.com/GonzaAhrexd/LAB4-Integrador)
-8. 🌟[Mokepon - Platzi Course using HTML, CSS and JavaScript vanilla](https://github.com/GonzaAhrexd/Mokepon-Platzi)
-9. 🌟[Shop - React Platzi Course](https://github.com/GonzaAhrexd/Tienda-CursoPlatzi)
-10. 🌟[Password Generator using Django](https://github.com/GonzaAhrexd/Django-Password-Generator)
-11. 🌟[Front-end Mentor QR Code Component](https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
-12. 🌟[Frontend-Mentor NFT preview card component](https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
-13. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
-14. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
-15. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
-16. 🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
+4. 🌟[Policial Web Page (Vehicle  Section) using Angular](https://github.com/GonzaAhrexd/Verificaciones-Policia-UI)
+5. 🌟[Policial Web Page (Economic Section) using Angular](https://github.com/GonzaAhrexd/Fondo-Unico-UI)
+6. 🌟[SPA Web Page and Progressive Web Application using Next.js](https://github.com/SantiZapata1/spa-ui)
+7. 🌟[Football Association Web Page using Next.js and Prisma](https://github.com/GonzaAhrexd/Asociacion-Futbol-Proyecto-UTN)
+8. 🌟[School Management Project using LaravelPHP, React.js and MySQL](https://github.com/GonzaAhrexd/LAB4-Integrador)
+9. 🌟[Mokepon - Platzi Course using HTML, CSS and JavaScript vanilla](https://github.com/GonzaAhrexd/Mokepon-Platzi)
+10. 🌟[Shop - React Platzi Course](https://github.com/GonzaAhrexd/Tienda-CursoPlatzi)
+11. 🌟[Password Generator using Django](https://github.com/GonzaAhrexd/Django-Password-Generator)
+12. 🌟[Front-end Mentor QR Code Component](https://github.com/GonzaAhrexd/Frontend-Mentor-QR-code-component)
+13. 🌟[Frontend-Mentor NFT preview card component](https://github.com/GonzaAhrexd/Frontend-Mentor---NFT-preview-card-component)
+14. 🌟[Frontend-Mentor Calculator App](https://github.com/GonzaAhrexd/Frontend-Mentor---Calculator-app)
+15. 🌟[CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
+16. 🌟[Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
+17. 🌟[Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
 
 ### API Services
 1. 🌟[SPA API using Node.js and MongoDB](https://github.com/SantiZapata1/spa-ui)
-2. 🌟[Policial Web Page (Economic Section) using C# .NET](https://github.com/GonzaAhrexd/Fondo-Unico-API)
-3. 🌟[GameList API using C# .NET and MongoDB](https://github.com/GonzaAhrexd/GameList-API)
+2. 🌟[Policial Web Page (Vehicle Verifications Section) using C# .NET](https://github.com/GonzaAhrexd/Verificaciones-Policia-API)
+3. 🌟[Policial Web Page (Economic Section) using C# .NET](https://github.com/GonzaAhrexd/Fondo-Unico-Policia-API) 
+4. 🌟[GameList API using C# .NET and MongoDB](https://github.com/GonzaAhrexd/GameList-API)
 
 ### C# .NET
 1. 🌟[Simon Game](https://github.com/GonzaAhrexd/SimonGame-CSharp)
