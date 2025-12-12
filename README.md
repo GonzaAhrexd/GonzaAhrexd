@@ -42,7 +42,6 @@
 ### 🖥️ Desktop (Electron)
 - 🌟 [Nintendo Switch Presence App (Discord)](https://github.com/GonzaAhrexd/nintendo-switch-presence-pro-discord)
 
-### 🌐 Web Projects (selected)
 ### 🌐 Web Pages
 
 - 🌟 [S.O.S SRL using Node.js & MongoDB](https://github.com/GonzaAhrexd/BolsasDeResiduoPaginaWeb)
@@ -62,11 +61,13 @@
 - 🌟 [CRUD React Practice](https://github.com/GonzaAhrexd/CRUD-React)
 - 🌟 [Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
 - 🌟 [Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
+- 🌟 [Spell List Dungeons and Dragon App](https://github.com/GonzaAhrexd/spell-list-dungeons-and-dragon)
 
 ### 🔌 APIs & Backend
 - 🌟 [Policia — Vehicle Verifications API (C# .NET)](https://github.com/GonzaAhrexd/Verificaciones-Policia-API)  
 - 🌟 [Policia — Economic Section API (C# .NET)](https://github.com/GonzaAhrexd/Fondo-Unico-Policia-API)  
 - 🌟 [GameList API (C# .NET & MongoDB)](https://github.com/GonzaAhrexd/GameList-API)
+- 🌟 [Spell List API](https://github.com/GonzaAhrexd/spells-dungeons-and-dragons-api)
 
 ### 🧩 C# / .NET
 - 🌟 [Simon Game (C#)](https://github.com/GonzaAhrexd/SimonGame-CSharp)  
