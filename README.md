@@ -62,12 +62,14 @@
 - 🌟 [Frontend-Mentor Time Tracking Dashboard made with React](https://github.com/GonzaAhrexd/Frontend-Mentor-Time-tracking-dashboard-REACT)
 - 🌟 [Color Randomizer REACT App](https://github.com/GonzaAhrexd/Color-Randomizer-React-App)
 - 🌟 [Spell List Dungeons and Dragon App](https://github.com/GonzaAhrexd/spell-list-dungeons-and-dragon)
+- 🌟 [Real time chat using websockets](https://github.com/GonzaAhrexd/Chat-websockets-UI)
 
 ### 🔌 APIs & Backend
 - 🌟 [Policia — Vehicle Verifications API (C# .NET)](https://github.com/GonzaAhrexd/Verificaciones-Policia-API)  
 - 🌟 [Policia — Economic Section API (C# .NET)](https://github.com/GonzaAhrexd/Fondo-Unico-Policia-API)  
 - 🌟 [GameList API (C# .NET & MongoDB)](https://github.com/GonzaAhrexd/GameList-API)
 - 🌟 [Spell List API](https://github.com/GonzaAhrexd/spells-dungeons-and-dragons-api)
+- 🌟 [Real time chat websockets API](https://github.com/GonzaAhrexd/chat-websockets-API)
 
 ### 🧩 C# / .NET
 - 🌟 [Simon Game (C#)](https://github.com/GonzaAhrexd/SimonGame-CSharp)  
