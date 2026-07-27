@@ -8,7 +8,7 @@
 - 🌱 Currently learning new technologies.
 - 🧩 Building real-world apps (web, APIs, desktop & Wear OS) that solve practical problems  
 - 🥅 Long-term goal: become a **polyglot** (Spanish, English, Portuguese, French, Italian, Japanese & German)  
-- 🌎 From **Argentina** — 22 years old
+- 🌎 From **Argentina** — 23 years old
 
 ---
 
