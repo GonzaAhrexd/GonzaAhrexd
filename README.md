@@ -1,4 +1,4 @@
-# Hey there, I'm Gonzalo Ebel — aka **GonzaAhre** 👋
+# Hey there, I'm Gonzalo Ebel  👋
 
 > Full-Stack Developer · UTN Graduate · Always learning
 
@@ -24,7 +24,7 @@
 ---
 
 ### 🛠️ Tools & Tech
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,angular,nodejs,tailwind,mongodb,git,github,python,java,cs,net,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,angular,nodejs,nestjs,tailwind,mongodb,git,github,python,java,cs,net,mysql)](https://skillicons.dev)
 
 ---
 
