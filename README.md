@@ -82,9 +82,9 @@
 ---
 
 ## 📊 GitHub Stats
-[![Gonza's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonzaAhrexd&count_private=true&show_icons=true&theme=vision-friendly-dark&custom_title=Gonza's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)  
+[![Gonza's GitHub stats](https://github-stats-extended.vercel.app/api?username=GonzaAhrexd&theme=radical)](https://github.com/stats-organization/github-stats-extended)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GonzaAhrexd&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaAhrexd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GonzaAhrexd&layout=compact&theme=vision-friendly-dark)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
